@@ -2,11 +2,11 @@
 
 # Running this Solana Project
 
-This guide will walk you through the process of setting up and running your Solana project. It consists of an on-chain program built using Anchor and a React frontend with Vite.
+This guide will walk you through the process of setting up and running this Solana project. It consists of an on-chain program built using Anchor and a React frontend with Vite.
 
 ## Step 1: Deploying the Solana On-Chain Program
 
-1. Navigate to the `basic_1` folder that contains your Anchor code for the Solana on-chain program, located in `lib.rs`.
+1. Navigate to the `basic_1` folder that contains the Anchor code for the Solana on-chain program, located in `lib.rs`.
 2. Open a terminal window and navigate to the `basic_1` folder using the `cd` command.
 3. Build the Anchor project by running the following command:
 ```shell
