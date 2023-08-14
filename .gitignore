@@ -1,0 +1,7 @@
+node_modules
+app/create-react-app-starter/node_modules
+app/create-react-app-starter/dist
+basic-1/node_modules
+basic-1/target/debug/*
+basic-1/target/release/*
+basic-1/target/sbf-solana-solana/release/*
